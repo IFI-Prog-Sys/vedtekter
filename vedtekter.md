@@ -6,14 +6,14 @@ Foreningens navn er IFI-ProgSys, heretter nevnt som ProgSys.
 
 ## §2 Foreningens mål
 Foreningens formål er å fremme det sosiale og faglige miljøet ved master- og
-bachelorprogrammet Programmering og Systemarkitektur ved Institutt for
-informatikk ved Universitetet i Oslo.
+bachelorprogrammet Programmering og Systemarkitektur ved Institutt for informatikk
+ved Universitetet i Oslo.
 
 a) Foreningen skal holde sosiale og faglig relevante arrangementer for
 programområdenes studenter.
 
-b) Foreningen skal sørge for at programrommet har en atmosfære som oppfordrer
-til sosial og faglig mingling.
+b) Foreningen skal sørge for at programrommet har en atmosfære som oppfordrer til
+sosial og faglig mingling.
 
 
 ## §3 Medlemskap
@@ -27,101 +27,114 @@ c) Styret har ansvar for foreningens medlemsregister
 
 ## §4 Generalforsamlingen og dens myndighet
 a) Generalforsamlingen er foreningens høyeste organ. Ordinær generalforsamling
-avholdes årlig i henhold til §§ 4 bokstav h 5. ledd og 4 bokstav i 3. ledd. Det
-kan innkalles til ekstraordinær generalforsamling dersom styret eller minst 20
-studenter ved Programmering og Systemarkitektur ønsker det.
+avholdes årlig i henhold til §4 i 5 og §4 j 3. Det kan innkalles til ekstraordinær
+generalforsamling dersom styret eller minst 20 studenter ved Programmering og
+Systemarkitektur ønsker det.
 
-b) Generalforsamling holdes tidligst 14 dager etter innkallelse.
+b) Ordinær generalforsamling holdes tidligst 14 dager etter innkallelse.
 
-c) På ordinær generalforsamling behandles styrets beretning, regnskap for
-forrige periode og budsjett for neste periode, valg av nytt styre, samt
-eventuelle andre saker som er satt opp på dagsordenen.
+c) Ekstraordinær generalforsamling holdes tidligst 2 dager etter innkallelse og
+følger §4 og telles da som generalforsamling, men ikke ordinær
+generalforsamling.
 
-d) Alle studenter på Programmering og Systemarkitektur ved Institutt for
-informatikk er stemmeberettigede og kan stille til valg. Generalforsamlingen
-fatter vedtak ved enkelt flertall.
+d) På ordinær generalforsamling behandles styrets beretning, regnskap for forrige
+periode og budsjett for neste periode, valg av nytt styre, samt eventuelle andre saker
+som er satt opp på dagsordenen.
 
-e) Forslag til vedtektsendringer skal være styret i hende senest 2 dager før
-generalforsamling. Endring av vedtektene kan bare skje når 2/3 av de fremmøtte
-stemmeberettigede stemmer for.
+e) Alle studenter tilhørende Programmering og Systemarkitektur ved Institutt for
+informatikk er stemmeberettigede og kan stille til valg. Generalforsamlingen fatter vedtak
+ved enkelt flertall.
 
-f) Generalforsamlingen er beslutningsdyktig hvis minst 10 stemmeberettigede er
-til stede.
+f) Forslag til vedtektsendringer
 
-g) Linjeforeningen for Informatikk: Programmering og systemarkitektur skal
-holde 1 - én - generalforsamling hvert semester. I høstsemesteret skal det
-holdes valg av vervene som følger av § 4 bokstav h. I vårsemesteret skal det
-holdes valg av vervene som følger av § 4 bokstav i.
+    1) Forslag til vedtektsendringer skal være styret i hende senest 2 dager før
+    ordinær generalforsamling
 
-h) Generalforsamlingen som holdes i høstsemesteret, skal velge følgende verv:
+    2) Forslag til vedtektsendringer skal være styret i hende senest 1 dag før
+    ekstraordinær generalforsamling.
 
-    a) Arrangementansvarlig;
-    b) Promoteringsansvarlig;
-    c) Internansvarlig, og;
+    3) Endring av vedtektene kan bare skje når 2/3 av de fremmøtte
+    stemmeberettigede stemmer for.
+
+    4) Styret kan velge å behandle forslag til vedtektsendringer selv om forslaget ikke
+    var styret i hende innen fristen beskrevet i §4 f.
+
+g) Generalforsamlingen er beslutningsdyktig hvis minst 10 stemmeberettigede er til
+stede.
+
+h) Linjeforeningen for Informatikk: Programmering og systemarkitektur skal holde 1 - én -
+ordinær generalforsamling hvert semester. I høstsemesteret skal det holdes valg av
+vervene som følger av §4 i 1. I vårsemesteret skal det holdes valg av vervene som følger
+av §4 j 1.
+
+i) Den ordinære generalforsamlingen som holdes i høstsemesteret
+
+    1) Verv som er oppe til valg:
+        a) Arrangementansvarlig;
+        b) Promoteringsansvarlig;
+        c) Internansvarlig, og;
+        d) Øvrige styremedlemmer
+        
+    2) Vervene nevnt i §4 i 1 bokstav a-c, er ikke fastsatte verv. Skulle foregående
+    styre finne det nødvendig, kan de velge å ikke holde valg for 1 - ett - eller flere av
+    disse vervene. Foregående styre kan også velge å holde valg for verv som ikke
+    er nevnt i §4 h 1. Eventuelle slike verv vil omgå bestemmelsene i §4 i 3 og
+    §4 i 4.
     
-d) Øvrige styremedlemmer
-
-    Vervene nevnt i 1. ledd bokstav a-c, er ikke fastsatte verv. Skulle
-    foregående styre finne det nødvendig, kan de velge å ikke holde valg for
-    1 - ett - eller flere av disse vervene. Foregående styre kan også velge å
-    holde valg for verv som ikke er nevnt i 1. ledd. Eventuelle slike verv vil
-    omgå bestemmelsene i 3. og 4. ledd.
-
-    Skulle det forekomme at 1 - ett - eller flere verv nevnt i 1. ledd ikke
-    blir valgt, gjelder bestemmelsene i § 5 bokstav c.
-
-    Ved ikrafttredelse av denne paragrafen sitter medlemmer i tråd med 1. ledd,
-    til neste ordinære generalforsamling. Etter første generalforsamling høst,
-    sitter medlemmer i tråd med 1. ledd, i 1 - ett - år.
-
-    Generalforsamling høst må holdes senest innen utgangen av oktober.
-
-i) Generalforsamlingen som holdes i vårsemesteret, skal velge følgende verv:
-
-    a) Leder;
-	b) Nestleder;
-	c) Økonomiansvarlig, og;
-	d) Teknisk ansvarlig
-
-	Skulle det forekomme at et styremedlem valgt på generalforsamling høst,
-	velges inn i et annet verv på generalforsamling vår, gjelder følgende
-	bestemmelser:
+    3) Skulle det forekomme at 1 - ett - eller flere verv nevnt i §4 h 1 ikke blir valgt,
+    gjelder bestemmelsene i §5 c.
     
-	a) Vervet til det respektive styremedlemmet, skal det holdes valg for
-	b) Ved ingen kandidater, har styret fullmakt til å etterfylle vervet slik
-    de ønsker, jf. § 5 bokstav c
+    4) Ved ikrafttredelse av denne paragrafen sitter medlemmer i tråd med §4 h 1, til
+    neste ordinære generalforsamling. Etter første generalforsamling høst, sitter
+    medlemmer i tråd med §4 h 1, i 1 - ett - år.
 
-	Generalforsamling vår må holdes senest innen utgangen av februar
+    5) Generalforsamling høst må holdes senest innen utgangen av oktober.
+    
+j) Den ordinære generalforsamlingen som holdes i vårsemesteret
 
+    1) Verv som er oppe til valg:
+        a) Leder;
+        b) Nestleder;
+        c) Økonomiansvarlig, og;
+        d) Teknisk ansvarlig
+        
+    2) Skulle det forekomme at et styremedlem ble valgt på generalforsamling høsten
+    før, velges inn i et annet verv på generalforsamling, gjelder følgende
+    bestemmelser:
+        a) Vervet til det respektive styremedlemmet, skal holdes valg for.
+        b) Ved ingen kandidater, har styret fullmakt til å etterfylle vervet slik de
+        ønsker, jf. §5 c
+        
+    3) Ordinær generalforsamling vår må holdes senest innen utgangen av februar
 
 ## §5 Styret og valg
 a) Styret skal ha minimum 5 og maks 11 styremedlemmer som velges for ett år på
 ordinær generalforsamling.
 
-b) Styret består av Styreleder, Nestleder, Økonomiansvarlig, Teknisk ansvarlig
-og kan bestå av Arrangementsansvarlig, Promoteringsansvarlig og fem
+b) Styret består av Styreleder, Nestleder, Økonomiansvarlig, Teknisk ansvarlig og kan
+bestå av Arrangementsansvarlig, Promoteringsansvarlig, Internansvarlig og fire
 styremedlemmer.
 
-c) Dersom enkelte verv ikke blir besatt på generalforsamling, eller
-styremedlemmer trekker seg, kan styret selv utpeke nye styremedlemmer.
+c) Dersom enkelte verv ikke blir besatt på generalforsamling, med unntak av vervene
+styret må bestå av, jf. §5 b, kan styret selv utpeke nye styremedlemmer.
 
-d) Ved eventuelt frafall av styremedlemmer, med unntak av leder, kan styret
-selv utpeke nye styremedlemmer som blir sittende frem til neste ordinære
-generalforsamling.
+d) Ved eventuelle frafall av styremedlemmer, med unntak av leder, kan styret selv utpeke
+nye styremedlemmer som blir sittende frem til neste ordinære generalforsamling.
 
-e) Trekker leder seg fra vervet tar nestleder over som leder til neste
+e) Trekker leder seg fra vervet tar nestleder over som leder til neste generalforsamling
+og styret utnevner en ny nestleder som er nestleder til neste
 generalforsamling.
 
 
 ## §6 Styret og dets oppgaver
-Styret er ansvarlig for ProgSys sin virksomhet og for at foreningens vedtekter
-følges.
+a) Styret er ansvarlig for ProgSys sin virksomhet og for at foreningens
+vedtekter følges.
 
-Styret er beslutningsdyktig dersom minst halvparten av styrets medlemmer er
+b) Styret er beslutningsdyktig dersom minst halvparten av styrets medlemmer er
 tilstede.
 
-Styret fatter beslutninger ved enkelt flertall ved stemmegivning. Skulle det
-bli stemmelikhet har styrets leder to stemmer.
+c) Styret fatter beslutninger ved enkelt flertall ved stemmegivning. Ved
+stemmelikhet telles leders stemme dobbelt.
 
 
 ## §7 Signaturrett
@@ -137,25 +150,19 @@ utformes med foreningens formål som grunnlag.
 
 ## §9 Etikk og varsling
 Foreningen skal så langt det er mulig vurdere miljømessige og etiske hensyn i
-planleggingen av aktiviteter. Skjer kritikkverdigeforhold i foreningen eller
-under foreningens arrangementer så kan dette varsles i henhold til
-varslingsrutiner.
-
-Foreningen skal ha en oppdatert varslingsplakat, varslingsrutiner og etiske
-retningslinjer som alle medlemmer skal være kjent med. I tillegg må dere ha en
-paragraf om sanksjoner slik at det kort er beskrevet hva som kan bli
-konsekvensene ved brudd på vedtekter eller retningslinjer.
+planleggingen av aktiviteter. Skjer kritikkverdige forhold i foreningen eller under
+foreningens arrangementer, skal dette varsles i henhold til ProgSys sine varslingsrutiner.
+Foreningen skal ha en oppdatert varslingsplakat, varslingsrutiner og etiske retningslinjer
+som alle medlemmer skal gjøre seg kjent med.
 
 
-## §10 Sanksjoner 
-Ved brudd på norsk lov, foreningens vedtekter eller retningslinjer kan styret
-ilegge sanksjoner mot det aktuelle medlemmet. Sanksjoner kan inkludere, men er
-ikke begrenset til, advarsler, midlertidig suspensjon av medlemsrettigheter,
-eller i alvorlige tilfeller, eksklusjon fra foreningen.
-
-Alle sanksjoner skal besluttes av styret med et kvalifisert flertall på minst
-to tredjedeler. Vedtak av sanksjoner kan ankes til styret for ny behandling av
-saken.
+## §10 Sanksjoner
+Ved brudd på norsk lov, foreningens vedtekter eller retningslinjer kan styret ilegge
+sanksjoner mot den aktuelle personen. Sanksjoner kan inkludere, men er ikke begrenset
+til, advarsler, midlertidig suspensjon av medlemsrettigheter, eller i alvorlige tilfeller,
+eksklusjon fra foreningen. Alle sanksjoner skal besluttes av styret med et kvalifisert
+flertall på minst to tredjedeler. Vedtak av sanksjoner kan ankes til styret for ny
+behandling av saken.
 
 
 ## §11 Mistillit
@@ -169,3 +176,4 @@ ordinære generalforsamlinger stemmer for oppløsning.
 
 b) Ved oppløsning av foreningen vil dens midler og eiendeler overføres til
 Fordelingsutvalget ved Institutt for informatikk.
+
