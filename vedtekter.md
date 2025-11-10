@@ -49,12 +49,13 @@ f) Forslag til vedtektsendringer
 
     1) Forslag til vedtektsendringer skal være styret i hende senest 2 dager
     før ordinær generalforsamling
-
-    2) Forslag til vedtektsendringer skal være styret i hende senest 1 dag før ekstraordinær generalforsamling.
-
+    
+    2) Forslag til vedtektsendringer skal være styret i hende senest 1 dag før
+    ekstraordinær generalforsamling.
+    
     3) Endring av vedtektene kan bare skje når 2/3 av de fremmøtte
     stemmeberettigede stemmer for.
-
+    
     4) Styret kan velge å behandle forslag til vedtektsendringer selv om
     forslaget ikke var styret i hende innen fristen beskrevet i §4 f.
 
@@ -71,9 +72,12 @@ i) Den ordinære generalforsamlingen som holdes i høstsemesteret
 
     1) Verv som er oppe til valg:
     
-        a) Arrangementansvarlig; 
-        b) Promoteringsansvarlig; 
-        c) Internansvarlig, og; 
+        a) Arrangementansvarlig;
+        
+        b) Promoteringsansvarlig;
+        
+        c) Internansvarlig, og;
+        
         d) Øvrige styremedlemmer
 
 2) Vervene nevnt i §4 i 1 bokstav a-c, er ikke fastsatte verv. Skulle
@@ -95,9 +99,12 @@ j) Den ordinære generalforsamlingen som holdes i vårsemesteret
 
     1) Verv som er oppe til valg:
     
-        a) Leder; 
-        b) Nestleder; 
-        c) Økonomiansvarlig, og; 
+        a) Leder;
+        
+        b) Nestleder;
+        
+        c) Økonomiansvarlig, og;
+        
         d) Teknisk ansvarlig
 
 2) Skulle det forekomme at et styremedlem ble valgt på generalforsamling høsten
@@ -105,7 +112,7 @@ før, velges inn i et annet verv på generalforsamling, gjelder følgende
 bestemmelser:
 
     a) Vervet til det respektive styremedlemmet, skal holdes valg for.
-
+    
     b) Ved ingen kandidater, har styret fullmakt til å etterfylle vervet slik
     de ønsker, jf. §5 c
 
